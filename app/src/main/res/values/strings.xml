@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">COEN390Assignment1</string>
+    <string name="student_name"></string>
+    <string name="name">Name</string>
+    <string name="age">age</string>
+    <string name="student_id">student id</string>
+    <string name="edit">edit</string>
+    <string name="display">display</string>
+    <string name="save">save</string>
+    <string name="convert">convert grade</string>
+    <string name="my_grade">my grade</string>
+    <string name="student_info">student information</string>
+</resources>
